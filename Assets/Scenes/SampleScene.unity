@@ -370,14 +370,17 @@ MonoBehaviour:
   m_GameObject: {fileID: 1922823960}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d25e0d9e6dd56d047b844f7e17c3d848, type: 3}
+  m_Script: {fileID: 11500000, guid: fd6ba508dfaffbc4292bb26b2641518e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   points:
-  - {x: 1, y: 0, z: -1}
-  - {x: 2, y: 0, z: 1}
-  - {x: 3, y: 0, z: -2}
-  - {x: 4, y: 0, z: 2}
+  - {x: 1, y: -0.53364825, z: -1.8767059}
+  - {x: 2, y: -6.96, z: 0}
+  - {x: 3, y: 0, z: 2.8739848}
+  - {x: 4, y: 0, z: -1.6874062}
+  - {x: 4.8704004, y: 0.93270916, z: 0}
+  - {x: 6.9021835, y: 0, z: 2.017466}
+  - {x: 6.5586143, y: -2.1466963, z: 0}
 --- !u!4 &1922823962
 Transform:
   m_ObjectHideFlags: 0
